@@ -1,0 +1,7 @@
+{
+    "name": "parcial2-2017-p1",
+    "version": "1.0",
+    "devDependencies": {
+        "eslint": "^4.10.0"
+    }
+}
