@@ -11,7 +11,7 @@ switch(operacion) {
         console.log('La multiplicación de los números da: ' + num1 * num2);
         break;
     case '/':
-        console.log('La multiplicación de los números da: ' + (num1 * num2));
+        console.log('La división de los números da: ' + (num1 * num2));
         break;
     default:
         console.log('El símbolo recibido en el 3er parámetro no es válido o no se recibió ninguno!');
